@@ -8,5 +8,10 @@
 // }
 
 
-Console.WriteLine("Hello, World!");
+// Console.WriteLine("Hello, World!");
 
+Pessoa sasa = new("Sabrina");
+Console.WriteLine(sasa.Name);
+
+var a = NewConsole.ReadLineInt();
+NewConsole.Print(a);

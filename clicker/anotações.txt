@@ -1,0 +1,10 @@
+- Criar uma classe Console
+- Classe Estática (Configurações do jogo)
+- Máquina
+    - 3 Máquinas diferentes (no mínimo)
+
+- Menu
+    - Click
+    - Loja
+        - Comprar uma máquina
+        - Upgrade de uma máquina

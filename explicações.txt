@@ -7,5 +7,37 @@ Para rodar:
 Para criar um gitignore com tudo que precisa:
 	- dotnet gitignore
 
-'' = char
-"" = string
+Aspas:
+	'' = char
+	"" = string
+
+Tipos:
+
+Inteiros:
+	- byte
+	- short
+	- int
+	- long
+
+Flutuantes:
+	- float (0.1f)
+	- double
+	- decimal (0.2M) (Mais utilizado para dinheiro)
+
+Caracter:
+	- char
+	- string
+
+Booleano:
+	- bool
+
+Anuláveis:
+	- int? aaa = null (PRa qualquer tipo que possa ser nulo, tipo typescript)
+
+
+
+Array:
+	- int[] arr = new int[5];
+
+
+

@@ -1,0 +1,11 @@
+Para iniciar um novo projeto:
+	- dotnet new console
+
+Para rodar:
+	- dotnet run
+
+Para criar um gitignore com tudo que precisa:
+	- dotnet gitignore
+
+'' = char
+"" = string

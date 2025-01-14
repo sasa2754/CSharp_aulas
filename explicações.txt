@@ -1,6 +1,9 @@
 Para iniciar um novo projeto:
 	- dotnet new console
 
+Para adicionar uma referencia:
+	- dotnet add reference ..\caminho\da\referencia
+
 Para rodar:
 	- dotnet run
 

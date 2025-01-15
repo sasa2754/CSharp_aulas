@@ -1,0 +1,12 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\bin\Debug\net9.0\DataBase.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\bin\Debug\net9.0\DataBase.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\bin\Debug\net9.0\DataBase.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.sourcelink.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\refint\DataBase.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\DataBase.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\A2\BD\obj\Debug\net9.0\ref\DataBase.dll

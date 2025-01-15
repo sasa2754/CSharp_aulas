@@ -17,8 +17,8 @@
   "libraries": {
     "DataBase/1.0.0": {
       "type": "project",
-      "path": "../DataBase/DataBase.csproj",
-      "msbuildProject": "../DataBase/DataBase.csproj"
+      "path": "../BD/DataBase.csproj",
+      "msbuildProject": "../BD/DataBase.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Model\\Model.csproj",
+      "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Model\\Model.csproj",
+      "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-      "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Model\\obj\\",
+      "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\DataBase\\DataBase.csproj": {
-              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\DataBase\\DataBase.csproj"
+            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\BD\\DataBase.csproj": {
+              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\BD\\DataBase.csproj"
             }
           }
         }

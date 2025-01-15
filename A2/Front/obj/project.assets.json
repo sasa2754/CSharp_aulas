@@ -30,8 +30,8 @@
   "libraries": {
     "DataBase/1.0.0": {
       "type": "project",
-      "path": "../DataBase/DataBase.csproj",
-      "msbuildProject": "../DataBase/DataBase.csproj"
+      "path": "../BD/DataBase.csproj",
+      "msbuildProject": "../BD/DataBase.csproj"
     },
     "Model/1.0.0": {
       "type": "project",
@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Front\\Front.csproj",
+      "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Front\\Front.csproj",
       "projectName": "Front",
-      "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Front\\Front.csproj",
+      "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Front\\Front.csproj",
       "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-      "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Front\\obj\\",
+      "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Front\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Model\\Model.csproj": {
-              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\Aula 2\\Model\\Model.csproj"
+            "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Model\\Model.csproj": {
+              "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\5 - Soluções Digitais 2024\\Sabrina\\19. C#\\A2\\Model\\Model.csproj"
             }
           }
         }

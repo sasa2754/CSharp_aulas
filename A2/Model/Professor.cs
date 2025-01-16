@@ -12,7 +12,6 @@ public class Professor : DataBaseObject {
     {
         this.Nome = data[0];
         this.Formacao = data[1];
-
     }
 
     protected override string[] SaveTo() => [

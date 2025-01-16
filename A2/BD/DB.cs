@@ -19,6 +19,7 @@ public class DB<T> where T : DataBaseObject, new() {
         }
     }
 
+    // Se o arquivo não existir, ele cria e usa o StreamReader para ler o conteúdo do arquivo, retornando uma lista de strings representando as linhas do arquivo
     private List<string> openFile() {
         List<string> lines = new();
         StreamReader reader = null;
@@ -43,6 +44,7 @@ public class DB<T> where T : DataBaseObject, new() {
     }
 
 
+    // Cria o arquivo se ele não existir e usa o StreamWriter pra escrever as linhas
     private bool saveFile(List<string> lines) {
         StreamWriter writer = null;
         bool succes = true;
@@ -68,6 +70,7 @@ public class DB<T> where T : DataBaseObject, new() {
         return succes;
     }
 
+    // Lê todos os objetos do banco de dados, para cada linha, ele cria uma instância de T e inicializa com os dados da linha
     public List<T> All {
         get {
             var lines = openFile();
@@ -88,10 +91,11 @@ public class DB<T> where T : DataBaseObject, new() {
                 throw new ConvertObjectException();
             }
 
-            return all;
+            return all.Count > 0 ? all : new List<T>();
         }
     }
 
+    // Converte cada objeto em uma string CSV usando o saveTo, cria uma lista de strings, representando as linhas do arquivo, usa o save file pra gravar no arquivo
     public void Save (List<T> all) {
         List<string> lines = new();
 

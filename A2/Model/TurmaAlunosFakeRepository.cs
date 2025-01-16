@@ -1,26 +1,24 @@
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using Microsoft.VisualBasic;
+using DataBase;
 
 namespace Model.Respository;
 
 public class TurmaAlunosFakeRepository : IRepository<TurmaAlunos> {
-
-    IRepository<Aluno> alunoRepo = new AlunoFakeRepository();
-    IRepository<Turma> turmaRepo = new TurmaFakeRepository();
-
     List<TurmaAlunos> turmaAlunos = [];
 
     public TurmaAlunosFakeRepository() {
-        turmaAlunos.Add(new () {
-            TurmaId = 1,
-            AlunosId = 1,
-        });
-        turmaAlunos.Add(new () {
-            TurmaId = 1,
-            AlunosId = 2,
-        });
+        var dbTurmaAlunos = DB<TurmaAlunos>.App;
+        turmaAlunos = dbTurmaAlunos.All ?? new List<TurmaAlunos>();
+
+        // turmaAlunos.Add(new () {
+        //     TurmaId = 1,
+        //     AlunosId = 1,
+        // });
+        // turmaAlunos.Add(new () {
+        //     TurmaId = 1,
+        //     AlunosId = 2,
+        // });
+        // dbTurmaAlunos.Save(turmaAlunos);
     }
 
 

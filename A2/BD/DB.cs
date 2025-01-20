@@ -7,9 +7,9 @@ using DataBase.Exceptions;
 namespace DataBase;
 
 public class DB<T> where T : DataBaseObject, new() {
-    private string basePath;
+    protected string basePath;
 
-    private DB(string basePath) => this.basePath = basePath;
+    protected DB(string basePath) => this.basePath = basePath;
 
     public string DBPath {
         get {
@@ -20,7 +20,7 @@ public class DB<T> where T : DataBaseObject, new() {
     }
 
     // Se o arquivo não existir, ele cria e usa o StreamReader para ler o conteúdo do arquivo, retornando uma lista de strings representando as linhas do arquivo
-    private List<string> openFile() {
+    protected List<string> openFile() {
         List<string> lines = new();
         StreamReader reader = null;
 
@@ -45,7 +45,7 @@ public class DB<T> where T : DataBaseObject, new() {
 
 
     // Cria o arquivo se ele não existir e usa o StreamWriter pra escrever as linhas
-    private bool saveFile(List<string> lines) {
+    protected bool saveFile(List<string> lines) {
         StreamWriter writer = null;
         bool succes = true;
         var path = this.DBPath;
@@ -113,7 +113,7 @@ public class DB<T> where T : DataBaseObject, new() {
         throw new DataCannotBeOpenedException(this.DBPath);
     }
 
-    private static DB<T> temp = null;
+    protected static DB<T> temp = null;
     public static DB<T> Temp {
         get {
             if (temp == null)
@@ -123,7 +123,7 @@ public class DB<T> where T : DataBaseObject, new() {
         }
     }
 
-    private static DB<T> app = null;
+    protected static DB<T> app = null;
     public static DB<T> App {
         get {
             if (app == null)
@@ -133,7 +133,7 @@ public class DB<T> where T : DataBaseObject, new() {
         }
     }
 
-    private static DB<T> custom = null;
+    protected static DB<T> custom = null;
     public static DB<T> Custom {
         get {
             if (custom == null)

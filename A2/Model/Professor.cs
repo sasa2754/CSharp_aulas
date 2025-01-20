@@ -1,3 +1,4 @@
+using System.Data;
 using DataBase;
 
 namespace Model;
@@ -14,8 +15,17 @@ public class Professor : DataBaseObject {
         this.Formacao = data[1];
     }
 
+    protected override void LoadFromSqlRow(DataRow data)
+    {
+        this.Nome = (string)data[0];
+        this.Formacao = (string)data[1];
+    }
+
     protected override string[] SaveTo() => [
         this.Nome,
         this.Formacao
     ];
+
+    protected override string SaveToSql() => $"INSERT INTO [Professor] VALUES ('{Nome}', '{Formacao}')";
+
 }

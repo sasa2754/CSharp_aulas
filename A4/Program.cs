@@ -10,6 +10,11 @@ foreach (var item in array.MyWhere(i => i % 2 == 0)){
     Console.Write($"{item} ");
 }
 
+Console.Write("\nSelect: ");
+foreach (var item in array.MySelect(i => i * i)){
+    Console.Write($"{item} ");
+}
+
 // Console.WriteLine($"FirstOfDefault: {array.MyFirstOrDefault<int>()}");
 // Console.WriteLine($"LastOrDefault: {array.MyLastOrDefault<int>()}");
 

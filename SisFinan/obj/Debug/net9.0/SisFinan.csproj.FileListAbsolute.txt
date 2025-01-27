@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\bin\Debug\net9.0\SisFinan.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\bin\Debug\net9.0\SisFinan.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\bin\Debug\net9.0\SisFinan.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\bin\Debug\net9.0\SisFinan.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\bin\Debug\net9.0\SisFinan.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.sourcelink.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\refint\SisFinan.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\SisFinan.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Sabrina\19. C#\SisFinan\obj\Debug\net9.0\ref\SisFinan.dll
